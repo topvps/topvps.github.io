@@ -1,44 +1,37 @@
 # 一些稳定便宜优质的vps推荐，定期更新，2019
 
-## 一些稳定便宜优质的vps推荐，定期更新，2019
+![2019稳定便宜的vps推荐，国外vps排行，中国vpn购买推荐，优质国外vps推荐，机房多、速度快、稳定好用，"banwagong怎么样"，vpns优惠码 "国外vps" "便宜vps" "vps推荐" "价格" "试用" "比较" "哪个好用" "netflix中国"](https://raw.githubusercontent.com/0dg/abc/master/cn-wall.png "vps")
 
-*if you read English, visit [this page](https://topvpn.github.io/china)*
-
-![2019年在中国能用的VPN 科学上网 翻墙， top vpn working fine in china，稳定好用的国外付费VPN推荐，"中国vpn"+"服务器"，best vpn app for china, 付费vpn排行，中国vpn购买推荐，本页面推荐的VPN均支持以下常用系统/设备：Apple苹果iOS iPhone手机，(Google) android 安卓手机，Mac、Windows、Linux系统的电脑等，好用的vpn，不记录活动日志vpn，优质国外付费vpn推荐，节点多、速度快、稳定好用，"expressvpn怎么样"，vpn 优惠，国内好用的国外vpn "多设备连接" "国外vpn服务器" "付费vpn" "价格" "试用" "比较" "哪个好用" "netflix中国"](https://raw.githubusercontent.com/0dg/abc/master/cn-wall.png "墙")
-![2019稳定便宜的vps推荐，国外vps排行，中国vpn购买推荐，优质国外vps推荐，机房多、速度快、稳定好用，"banwagong怎么样"，vpns优惠码 "国外vps" "便宜vps" "vps推荐" "价格" "试用" "比较" "哪个好用" "netflix中国"]
-(https://raw.githubusercontent.com/0dg/abc/master/cn-wall.png "vps")
-
-### wikihost
-https://idc.wiki/
+#### wikihost
+[https://idc.wiki](https://idc.wiki/aff.php?aff=680)
 
 这是一家国内厂家，已经做了好几年了。低价年付的vps非常适合用来做工具，看youtube的1080P无压力。配置放面是内存128M、硬盘3G、月流量250G、网络速率50Mbps。他家还有更低的年付￥70，对网络要求不高的可以购买。 支持支付宝、paypal等付款
 
-### frantech
-https://my.frantech.ca
+#### frantech
+[https://my.frantech.ca](https://my.frantech.ca/aff.php?aff=3120)
 
 该公司自2010年以来一直是价格合理的虚拟服务器市场的先驱。已经从一个充满希望的初创企业发展成了一家成熟的企业，可在高峰的时候表现出色，并始终以总正常运行时间为目标。从OpenVZ、KVM、KVM存储或Windows VPS产品中进行选择，并使用Stallion控制面板、DDOS保护和Anycast的增强主机。目前512MB的机器只要2美刀每月，性价比非常不错。 支持支付宝、paypal等付款
 
-### banwagong
-https://bandwagonhost.com/
+#### banwagong
+[https://bandwagonhost.com/](https://bandwagonhost.com/aff.php?aff=51270)
 
 banwagong可以说无人不知，无人不晓了，做了很多年的厂家，稳定可靠。香港服务器三网直连，网速速度非常快。适合个人建站或者做工具。之前还有低价年付，可能最近太火了，涨价了，现在价格上没有优势。 支持支付宝、paypal等付款
 
-### vultr
-
-https://www.vultr.com/
+#### vultr
+[https://www.vultr.com/](https://www.vultr.com/?ref=8148224)
 
 日本商家，最低5美刀起， 基于KVM平台，并且是SSD，主要提供vps服务，在全球有16处机房。拥有强悍的CPU性能，用来见web应用的话，性能非常出色。具备备份镜像的能力，以及云专用主机，不和其他人实例共用资源。 支持支付宝、paypal等付款
 
-### virmach
-https://virmach.com/
+#### virmach
+[https://virmach.com/](https://billing.virmach.com/aff.php?aff=8258)
 
 美国VPS商家，曾经的超低价vps，不过现在也涨到7美刀一个月了。主要业务有VPS以及web主机，有linux和windows系统可选，机房主要在美国和欧洲地区，也提供DDOS防护，技术支持，高性能CPU，高IO读写，数据备份等服务，支持支付宝、paypal等付款
 
-### raksmart
-http://www.raksmart.com/
+#### raksmart
+[http://www.raksmart.com/](https://billing.raksmart.com/whmcs/aff.php?aff=2339)
 一家华人商家，主要提供 VPS主机 ，独立服务器等服务，全世界有三处数据中心，并且在香港设有机房，支持CN2线路，可想而知访问速度是非常不过的，还支持中文服务以及支付宝、paypal等付款
 
-###选择国外vps的标准
+### 选择国外vps的标准
 
 #### 位置
 
