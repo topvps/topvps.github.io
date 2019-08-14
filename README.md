@@ -29,6 +29,7 @@ banwagong可以说无人不知，无人不晓了，做了很多年的厂家，�
 
 #### raksmart
 [http://www.raksmart.com](https://billing.raksmart.com/whmcs/aff.php?aff=2339)
+
 一家华人商家，主要提供 VPS主机 ，独立服务器等服务，全世界有三处数据中心，并且在香港设有机房，支持CN2线路，可想而知访问速度是非常不过的，还支持中文服务以及支付宝、paypal等付款
 
 ### 选择国外vps的标准
