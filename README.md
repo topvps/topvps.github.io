@@ -1,6 +1,6 @@
 # 一些稳定便宜优质的vps推荐，定期更新，2019
 
-![2019稳定便宜的vps推荐，国外vps排行，中国vpn购买推荐，优质国外vps推荐，机房多、速度快、稳定好用，"banwagong怎么样"，vpns优惠码 "国外vps" "便宜vps" "vps推荐" "价格" "试用" "比较" "哪个好用" "netflix中国"](https://raw.githubusercontent.com/0dg/abc/master/cn-wall.png "vps")
+![2019稳定便宜的vps推荐，国外vps排行，中国vpn购买推荐，优质国外vps推荐，机房多、速度快、稳定好用，"banwagong怎么样"，vpns优惠码 "国外vps" "便宜vps" "vps推荐" "价格" "试用" "比较" "哪个好用" "netflix中国"](/image/logo.jpg "vps")
 
 #### wikihost
 [https://idc.wiki](https://idc.wiki/aff.php?aff=680)
@@ -49,4 +49,4 @@ banwagong可以说无人不知，无人不晓了，做了很多年的厂家，�
 
 虽然说价格是越低越好，但是任何时候都有个度，价格明显低于市场价，甚至你都怀疑他是否能挣钱的时候，就要想想这货是不是来骗钱的。当然价格太高也不是说就一定好，同样是1G内存和10G SSD，一个卖5刀，一个卖50刀，这不明摆着是欺负别人信息不对称嘛。所以价格放面多对比几家，看一下市场价大概是多少，也不要纠结几块钱的差别。
 
-[本文固定链接](https://topvps.github.io) 一些稳定便宜优质的vps推荐，本文定期更新，有用的话请添加收藏*
+*^ [本文固定链接](https://topvps.github.io) 一些稳定便宜优质的vps推荐，本文定期更新，有用的话请添加收藏*
