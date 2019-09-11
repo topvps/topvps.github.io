@@ -3,9 +3,9 @@
 ![2019稳定便宜的vps推荐，国外vps排行，中国vpn购买推荐，优质国外vps推荐，机房多、速度快、稳定好用，"banwagong怎么样"，vpns优惠码 "国外vps" "便宜vps" "vps推荐" "价格" "试用" "比较" "哪个好用" "netflix中国"](/image/logo.jpg "vps")
 
 #### wikihost
-[https://idc.wiki](https://idc.wiki/aff.php?aff=680)
+[https://idc.wiki](https://idc.wiki/aff.php?aff=680&gid=9)
 
-这是一家国内厂家，已经做了好几年了。低价年付的vps非常适合用来做工具，看youtube的1080P无压力。配置放面是内存128M、硬盘3G、月流量250G、网络速率50Mbps。他家还有更低的年付￥70，对网络要求不高的可以购买。 支持支付宝、paypal等付款
+这是一家国内厂家，已经做了好几年了，个人认为是性价比最高的一家，本人也已经用了好几年了。低价年付的vps非常适合用来做工具，看youtube的1080P无压力，当然[低价年付](https://idc.wiki](https://idc.wiki/aff.php?aff=680&gid=7)经常缺货，另外可以选择[美国洛杉矶Cera KVM VPS](https://idc.wiki](https://idc.wiki/aff.php?aff=680&gid=9)。配置放面是内存128M、硬盘3G、月流量250G、网络速率50Mbps。他家还有更低的年付￥70，对网络要求不高的可以购买。 支持支付宝、paypal等付款
 
 #### frantech
 [https://my.frantech.ca](https://my.frantech.ca/aff.php?aff=3120)
