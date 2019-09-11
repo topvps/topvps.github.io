@@ -52,4 +52,3 @@ banwagong可以说无人不知，无人不晓了，做了很多年的厂家，�
 
 *[本文固定链接](https://topvps.github.io) 一些稳定便宜优质的vps推荐，本文定期更新，有用的话请添加收藏*
 
-*更多推荐 [天天煮鸡](http://tthosts.com)*
