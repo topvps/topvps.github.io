@@ -1,44 +1,44 @@
-# 翻墙软件与科学上网，中国最好用翻墙VPN推荐(内含优惠)
+wikihost
+https://idc.wiki
 
-大多数[VPN中国](https://qiangup.com/best-vpn-china/)无法使用，还有一部分的运行速度也受到了一定的限制，好用的VPN已经很少了，本文提供了[翻墙软件](https://qiangwaikan.com/gfw/)工具、科学上网教程。
+这是一家国内厂家，已经做了好几年了，个人认为是性价比最高的一家，本人也已经用了好几年了。低价年付的vps非常适合用来做工具，看youtube的1080P无压力，当然低价年付经常缺货，另外可以选择美国洛杉矶Cera KVM VPS。配置放面是内存128M、硬盘3G、月流量250G、网络速率50Mbps。他家还有更低的年付￥70，对网络要求不高的可以购买。 支持支付宝、paypal等付款
 
-中国拥有先进的互联网内容审查系统(GFW，许多VPN用户对此都有所了解。外籍人士和中国人都使用VPN服务来访问被封锁的网站和应用程序，例如Facebook、Gmail、Google、YouTube、Tinder、WhatsApp、Netflix等。那么，你应该选择哪种VPN，在中国还能用的VPN有哪些？
+frantech
+https://my.frantech.ca
 
-在中国测试VPN并非易事，网络上许多适用于中国VPN排行，测试结果也不是完全基于中国国情。为了了解哪些VPN在中国可以绕过GFW，我们针对中国大陆测试了59种不同的VPN。
+该公司自2010年以来一直是价格合理的虚拟服务器市场的先驱。已经从一个充满希望的初创企业发展成了一家成熟的企业，可在高峰的时候表现出色，并始终以总正常运行时间为目标。从OpenVZ、KVM、KVM存储或Windows VPS产品中进行选择，并使用Stallion控制面板、DDOS保护和Anycast的增强主机。目前512MB的机器只要2美刀每月，性价比非常不错。 支持支付宝、paypal等付款
 
-提示：尽管VPN本身可以使用，但许多墙外网站在中国被封锁，因此，如果你当前不在中国，最好在访问中国之前先注册购买翻墙[好用的VPN](https://itkumao.com/best-vpn-china/)。
+banwagong
+https://bandwagonhost.com
 
-我们将在本文后面介绍我们的全部发现和方法，但是对于那些寻求快速建议的人来说，这是我们的中国[VPN推荐](https://qiangwaikan.com/best-vpn-china/)。
+banwagong可以说无人不知，无人不晓了，做了很多年的厂家，稳定可靠。香港服务器三网直连，网速速度非常快。适合个人建站或者做工具。之前还有低价年付，可能最近太火了，涨价了，现在价格上没有优势。 支持支付宝、paypal等付款
 
-我们发现这些是适用于中国的最佳VPN：
+vultr
+https://www.vultr.com
 
-![ExpressVPN](https://hotlinkgo.com/wp-content/uploads/2022/05/expressvpn.png)
-- 1.[ExpressVPN](http://hotlinkgo.com/go/expressvpn):在中国始终有效、快速，并且可以解锁Netflix和其他被封锁的站点。
+日本商家，最低5美刀起， 基于KVM平台，并且是SSD，主要提供vps服务，在全球有16处机房。拥有强悍的CPU性能，用来见web应用的话，性能非常出色。具备备份镜像的能力，以及云专用主机，不和其他人实例共用资源。 支持支付宝、paypal等付款
 
-![NordVPN](https://hotlinkgo.com/wp-content/uploads/2022/05/nordvpn.png)
-- 2.[NordVPN](http://hotlinkgo.com/go/nordvpn): 提供高级加密方式，价格实惠，VPN软件具有很多高级功能。
+virmach
+https://virmach.com
 
-![PandaVPN](https://hotlinkgo.com/wp-content/uploads/2022/05/pandavpn.png)
-- 3.[熊猫VPN](http://hotlinkgo.com/go/pandavpn): 拥有所有自己的服务器，拥有出色的速度，和不错的稳定运行时间。
+美国VPS商家，曾经的超低价vps，不过现在也涨到7美刀一个月了。主要业务有VPS以及web主机，有linux和windows系统可选，机房主要在美国和欧洲地区，也提供DDOS防护，技术支持，高性能CPU，高IO读写，数据备份等服务，支持支付宝、paypal等付款
 
-![Surfshark](https://hotlinkgo.com/wp-content/uploads/2022/05/surfshark.png)
-- 4.[Surfshark](http://hotlinkgo.com/go/surfshark): 能够在中国使用，并且可以解锁美国地区Netflix。
+raksmart
+http://www.raksmart.com
 
-![PureVPN](https://hotlinkgo.com/wp-content/uploads/2022/05/purevpn.png)
-- 5.[PureVPN](http://hotlinkgo.com/go/purevpn): 启用隐形模式之后，可以在中国使用。
+一家华人商家，主要提供 VPS主机 ，独立服务器等服务，全世界有三处数据中心，并且在香港设有机房，支持CN2线路，可想而知访问速度是非常不过的，还支持中文服务以及支付宝、paypal等付款
 
+选择国外vps的标准
+位置
+选vps跟选房产一样，有三个最重要的标准，位置！位置！还是位置！虽然说周边国家，比如日本虽然地理位置近，但是链接并不稳定，据我所知美国vps的网络链接总体来说是比较稳定，那些推荐什么俄罗斯，欧洲的要记得辨别，等你买来一跑，网络延迟可以让你怀疑人生，而且这种机子大多都不能退款，然后还是年付。于是你想起了那天夕阳下的奔跑，那是你逝去的青春。。。
 
-- 6.Hotspot Shield: 提供不错的速度，具有私有的VPN协议。
+内存
+其实说到内存的话，看你的vps是拿来干什么的，如果仅仅是当作自用的某些工具的话，那么128M都够用，选个网络延迟比较小的，找个脚本一跑就完事儿。如果你是建站的话，那么内存当然是一个很重要的指标。买一个1G的，装个mysql估计就把内存吃完了。所以这个指标得看你的需求是啥，然后在去选择适合自己的。
 
+IP
+如果你要从国内访问的话，那么不管买vps干啥，IP都是很重要的指标了。毕竟现在都是直接F IP段的，尽量不要选择一些大家都用烂了商家。虽然国外的IP池比国内大得多，但是真的F起IP段来，换啥IP都是白搭。而且每个商家拿到的IP段肯定都是不一样的，所以选择一个小众的商家，也就选择了一个小众的IP段，能够最大限度的防止被F。当然选择的时候要小心采坑，不过这也是难免的，想一辈子不吃亏，又想得到自己想要的不太可能。所以对于选择IP段来说，其中是有很大运气成分的。
 
-- 7.Astrill: 价格昂贵，但可以在中国使用。
+价格
+虽然说价格是越低越好，但是任何时候都有个度，价格明显低于市场价，甚至你都怀疑他是否能挣钱的时候，就要想想这货是不是来骗钱的。当然价格太高也不是说就一定好，同样是1G内存和10G SSD，一个卖5刀，一个卖50刀，这不明摆着是欺负别人信息不对称嘛。所以价格放面多对比几家，看一下市场价大概是多少，也不要纠结几块钱的差别。
 
-为了减小此VPN推荐列表，我们考虑了一些标准，而不仅仅是绕过防火长城。编写此列表时，以下是我们的主要考虑因素，以及我们认为对中国VPN用户最为重要的因素:
-
-- **在中国可以使用** -很明显，但并非所有VPN都可以绕过GFW。
-- **速度快** -你可能需要使用VPN观看流媒体和下载文件，因此无限的带宽和快速的服务器必不可少。
-- **服务器位置** -地理位置最接近中国的服务器（例如香港、台湾、新加坡的服务器）将提供更快的速度。
-- **解锁网站** -除绕过GFW外，你可能还想在外出时访问Netflix和Spotify等流媒体服务。它们具有自己的地理限制，并且需要兼容的VPN。ExpressVPN、NordVPN和VyprVPN都在解锁流媒体站点方面表现出色。
-- **设备数量限制** -如果你有多个设备，支持电脑、手机、平板翻墙，包括Windows、MacOS、iOS、Android、Linux，Chrome、FireFox、Safari、Edge浏览器扩展插件、游戏端支持PS5、Switch、Xbox、任天堂设备。或者想与家人或朋友共享你的订阅，你可能需要提供更多设备数量限制的VPN。在此列表中，Surfshark为我们提供了最多设备同时连接数量。
-- **客户支持** -有时在使用VPN的时候，会遇到一些问题，因此拥有多种联系客户支持的渠道很有用，包括电子邮件和实时聊天。
-- **应用程序** -确保VPN应用程序可用于所有设备，因为在中国可能无法进行手动配置。
+本文固定链接 一些稳定便宜优质的vps推荐，本文定期更新，有用的话请添加收藏
